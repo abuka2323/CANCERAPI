@@ -1,4 +1,4 @@
-# CANCERAPI
+# CANCERAI
 
 This project aims to predict the presence of breast cancer based on a dataset of features extracted from breast mass images. The dataset contains various attributes related to the breast mass, such as radius, texture, perimeter, area, smoothness, and more.
 
